@@ -16,7 +16,7 @@
 
 Copy request as ffuf command.
 
-### requires
+### Requirements
 
 - [ffuf](https://github.com/ffuf/ffuf)
 - [pencode](https://github.com/ffuf/pencode)

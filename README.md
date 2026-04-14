@@ -1,10 +1,11 @@
-# VueJS Frontend Template
+# Copy as FFUF 
 
-This template should be used as a starting point for creating a new plugin with a VueJS frontend.
+Copy request as ffuf command.
 
-## Features
+## Plugins
 
-- [pnpm](https://pnpm.io/) as package manager
-- [TypeScript](https://www.typescriptlang.org/)
-- [VueJS](https://vuejs.org/)
-- [PrimeVue](https://primevue.org/) for UI components
+- Copy as FFUF ( Minimal Headers
+- Copy as FFUF (Full Headers
+- Copy as FFUF (Encoded Wordlist; requires pencode
+
+

@@ -2,7 +2,7 @@
 
 Copy request as ffuf command.
 
-## Plugins
+## Menu Items
 
 - Copy as FFUF ( Minimal Headers
 - Copy as FFUF (Full Headers
